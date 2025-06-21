@@ -30,3 +30,4 @@ function deleteExpense(btn, amount) {
     total -= amount;
     totalAmount.textContent = total.toFixed(2);
 }
+// Pull request 
